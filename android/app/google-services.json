@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374821494469",
+    "project_id": "movies-6973a",
+    "storage_bucket": "movies-6973a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374821494469:android:6a9793d987fed8bf431aac",
+        "android_client_info": {
+          "package_name": "uz.karimov.movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374821494469-857vc2trfngtsilrhbu91ekq2ss6n30a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6v7pbge--vytW-zGat87o2kPN3jTTWdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374821494469-857vc2trfngtsilrhbu91ekq2ss6n30a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
